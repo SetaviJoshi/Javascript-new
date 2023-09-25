@@ -1,0 +1,2 @@
+# Javascript-new
+js practise
